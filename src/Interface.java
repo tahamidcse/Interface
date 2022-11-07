@@ -1,5 +1,4 @@
-public class Interface {
-}
+
 ######1
 public interface Measurable
 
